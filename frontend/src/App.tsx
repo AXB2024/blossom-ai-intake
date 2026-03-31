@@ -227,7 +227,7 @@ function App() {
           <p className="eyebrow">Blossom Health | Smart Intake Console</p>
           <h1>AI-Powered Intake + Cost Transparency</h1>
           <p>
-            Reduce onboarding friction, improve triage quality, and show estimated patient cost before booking.
+            Reduce onboarding friction, improve assessment quality, and show estimated patient cost before booking.
           </p>
         </section>
 
